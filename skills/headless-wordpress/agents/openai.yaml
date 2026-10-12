@@ -1,0 +1,4 @@
+interface:
+  display_name: "Headless WordPress"
+  short_description: "Build WordPress-backed frontends with Next.js"
+  default_prompt: "Use $headless-wordpress to build or improve a Next.js frontend backed by WordPress."
